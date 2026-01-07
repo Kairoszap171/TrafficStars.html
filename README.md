@@ -1,2 +1,0 @@
-# TrafficStars.html
-Verify
